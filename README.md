@@ -1,6 +1,7 @@
 <!-- https://egorkonovalov.github.io/flycatcher/posts/3/ -->
 
-# MyLingo
+# GPT-for-i18n
+
 > I18n-translator 
 
 ## prisma
